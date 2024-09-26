@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "R7S39UR27F.com.smart.rently.sapphire", "R7S39UR27F.com.smart.rently" ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL path for abc.com"
+          }
+        ]
+      }
+    ]
+  }
+}
