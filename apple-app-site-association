@@ -5,8 +5,7 @@
         "appIDs": [ "R7S39UR27F.com.smart.rently.sapphire", "R7S39UR27F.com.smart.rently" ],
         "components": [
           {
-            "#": "no_universal_links",
-            "exclude": true,
+            "/": "/*",
             "comment": "Matches any URL path for abc.com"
           }
         ]
